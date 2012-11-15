@@ -1,0 +1,19 @@
+Brian Druker
+============
+
+* 100 years ago there was little medical knowledge
+* "If the cause has been discovered, then there is hope for a cure"
+* Cancer causes 1 in 4 deaths in our country
+* Over the last century we have developed a theory about what causes cancer, the 'Genetic Theory'
+
+Glevac
+------
+* For 30 years we thought that the only way to defeat cancer was to kill the cancer cells
+* Developing a drug is really expensive (500mil - 1Bil) and a 1 in 10 chance of being successful
+* Cancer is like a thermostat that is 'stuck on'
+* Glevac - targeted the cause of the growth of the leukemia
+    * Thousands of places where a cell can break and Glevac targeted only one of these
+    * Glevac works for 10 different cancers
+
+* Figure out why and how a cancer is broken and fix the broken part
+    * Do this by sequencing a cancer's DNA and look for broken parts
