@@ -1,19 +1,18 @@
-Brian Druker
-============
-
-* 100 years ago there was little medical knowledge
-* "If the cause has been discovered, then there is hope for a cure"
-* Cancer causes 1 in 4 deaths in our country
-* Over the last century we have developed a theory about what causes cancer, the 'Genetic Theory'
-
-Glevac
-------
-* For 30 years we thought that the only way to defeat cancer was to kill the cancer cells
-* Developing a drug is really expensive (500mil - 1Bil) and a 1 in 10 chance of being successful
-* Cancer is like a thermostat that is 'stuck on'
-* Glevac - targeted the cause of the growth of the leukemia
-    * Thousands of places where a cell can break and Glevac targeted only one of these
-    * Glevac works for 10 different cancers
-
-* Figure out why and how a cancer is broken and fix the broken part
-    * Do this by sequencing a cancer's DNA and look for broken parts
+For 30 years we thought that the only way to defeat cancer was to kill the
+cancer cells. Brian Druker came up with a novel approach to fighting cancer in
+the form of a drug called Glevac. Glevac doesn't involve the traditional side
+affects of cancer treatments like chemotherapy. With cancer causing 1 in 4
+deaths in our country, Glevac is a drug that could completely change how we
+treat those with cancer. The innovative strategy Glevac employs is figuring out
+the actual cause of a specific cancer; If the cause has been discovered, then
+there is hope for a cure. Glevac can actually be used to cure 10 different
+kinds of cancer (all the cured cancers share a common cause). To discover the
+causes of cancer (every cancer is different) Druker suggested that we invest a
+lot more resources that are currently being allocated to cancer research. He
+pointed out that cancer research is splintered into competeing labs that don't
+work together and instead focus on their own research. Another thing I learned
+from Druker's talk was that it is very expensive to develop a drugs and drug
+development is a very risky investment for drug companies.  Druker said
+developing a single drug can cost anywhere between $500 million to $1 Billion
+and that there is a 1 in 10 chance of the drug being successful being
+successful
